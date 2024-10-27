@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Email Phishing Detection</title>
+  </head>
+  <style>
+    /* Basic styling */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    textarea {
+      width: 100%;
+      resize: vertical;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    input[type="file"] {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    input[type="submit"] {
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #0062cc;
+    }
+  </style>
+  <body>
+    <h1>Email Phishing Detection</h1>
+    <form action="/predict" method="post" enctype="multipart/form-data">
+      <label for="email_headers">Email Headers:</label><br />
+      <textarea
+        name="email_headers"
+        rows="5"
+        cols="50"
+        placeholder="Enter email headers here..."
+      ></textarea
+      ><br />
+
+      <label for="email_text">Email Body:</label><br />
+      <textarea
+        name="email_text"
+        rows="10"
+        cols="50"
+        placeholder="Enter email body here..."
+      ></textarea
+      ><br />
+
+      <label for="email_attachment">Upload Attachment:</label><br />
+      <input type="file" name="email_attachment" /><br />
+
+      <input type="submit" value="Check" />
+    </form>
+  </body>
+</html>

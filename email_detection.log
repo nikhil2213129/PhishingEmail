@@ -1,0 +1,71 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 764-681-981
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 06:57:53] "GET / HTTP/1.1" 200 -
+INFO:root:Email: Headers appear normal. this announcement is only for those who have registered and paid for the november 2024 exam dear candidate your hall ticket admit card for the nptel exams in november 2024 has been released you may have received an email with a link to download the hall ticket to your registered email id please refer to it for further details it is the responsibility of the candidate to download the hall ticket at their end please check your registered email id note requests for changes in exam city exam center exam date session or course will not be entertained please write to supportnpteliitmacin for any further queries all the best for your exams you received this message because you are subscribed to the google groups announcement list for introduction to internet of things group to unsubscribe from this group and stop receiving emails from it send an email to noc24cs115announceunsubscribenpteliitmacin to view this discussion visit for more options visit , Predictions: {'Random Forest': 'Safe', 'Multinomial Naive Bayes': 'Safe', 'Bernoulli Naive Bayes': 'Safe'}
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 06:58:34] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 06:58:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 06:59:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:00:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:00:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:01:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:01:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:01:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Email: Headers appear normal. geguegibaifbg , Predictions: {'Random Forest': 'Phishing', 'Multinomial Naive Bayes': 'Safe', 'Bernoulli Naive Bayes': 'Phishing'}
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:02:16] "POST /predict HTTP/1.1" 200 -
+INFO:root:Feedback for Email: Headers appear normal. geguegibaifbg , Feedback: correct
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:02:20] "POST /feedback HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:02:59] "[31m[1mGET /feedback HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:03:07] "GET / HTTP/1.1" 200 -
+INFO:root:Email: Headers appear normal. srthrsthsrr , Predictions: {'Random Forest': 'Phishing', 'Multinomial Naive Bayes': 'Safe', 'Bernoulli Naive Bayes': 'Phishing'}
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:03:14] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 764-681-981
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:03:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:03:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:04:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 764-681-981
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:05:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:05:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:05:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:05:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 764-681-981
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:13:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:13:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 764-681-981
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:14:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Oct/2024 07:14:27] "GET / HTTP/1.1" 200 -
