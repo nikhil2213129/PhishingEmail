@@ -102,3 +102,6 @@ Explore additional text preprocessing techniques (e.g., stemming, lemmatization)
 Experiment with more advanced models such as Support Vector Machines or Deep Learning methods.
 Implement a web interface for real-time email classification.
 Gather and use a larger dataset for improved model accuracy.
+
+
+Feel free to customize any sections to better fit your project specifics!
