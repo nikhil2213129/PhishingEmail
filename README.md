@@ -36,7 +36,7 @@ The dataset used in this project is `Phishing_Email.csv`, which contains two col
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/phishing-email-classification.git
+   git clone https://github.com/nikhil2213129/PhishingEmail.git
    cd phishing-email-classification
 
 Install the required packages:
